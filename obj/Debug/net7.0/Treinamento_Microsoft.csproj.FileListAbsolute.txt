@@ -1,0 +1,14 @@
+C:\Be a QA\Treinamento_Microsoft\bin\Debug\net7.0\Treinamento_Microsoft.exe
+C:\Be a QA\Treinamento_Microsoft\bin\Debug\net7.0\Treinamento_Microsoft.deps.json
+C:\Be a QA\Treinamento_Microsoft\bin\Debug\net7.0\Treinamento_Microsoft.runtimeconfig.json
+C:\Be a QA\Treinamento_Microsoft\bin\Debug\net7.0\Treinamento_Microsoft.dll
+C:\Be a QA\Treinamento_Microsoft\bin\Debug\net7.0\Treinamento_Microsoft.pdb
+C:\Be a QA\Treinamento_Microsoft\obj\Debug\net7.0\Treinamento_Microsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Be a QA\Treinamento_Microsoft\obj\Debug\net7.0\Treinamento_Microsoft.AssemblyInfoInputs.cache
+C:\Be a QA\Treinamento_Microsoft\obj\Debug\net7.0\Treinamento_Microsoft.AssemblyInfo.cs
+C:\Be a QA\Treinamento_Microsoft\obj\Debug\net7.0\Treinamento_Microsoft.csproj.CoreCompileInputs.cache
+C:\Be a QA\Treinamento_Microsoft\obj\Debug\net7.0\Treinamento_Microsoft.dll
+C:\Be a QA\Treinamento_Microsoft\obj\Debug\net7.0\refint\Treinamento_Microsoft.dll
+C:\Be a QA\Treinamento_Microsoft\obj\Debug\net7.0\Treinamento_Microsoft.pdb
+C:\Be a QA\Treinamento_Microsoft\obj\Debug\net7.0\Treinamento_Microsoft.genruntimeconfig.cache
+C:\Be a QA\Treinamento_Microsoft\obj\Debug\net7.0\ref\Treinamento_Microsoft.dll
